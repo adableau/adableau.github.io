@@ -24,12 +24,10 @@ redirect_from:
 ### 研究方向 / Research Focus
 
 多年来一直从事数据挖掘、自然语言处理的相关研究工作。
-*His/Her research primarily focuses on Data Mining and Natural Language Processing (NLP).*
-*(请将 His/Her 替换为正确的性别代词)*
+*Her research primarily focuses on Data Mining and Natural Language Processing (NLP).*
 
 主要研究兴趣包括但不限于：
-*His/Her main research interests include, but are not limited to:*
-*(请将 His/Her 替换为正确的性别代词)*
+*Her main research interests include, but are not limited to:*
 
 *   数据挖掘 / Data Mining
 *   自然语言处理 / Natural Language Processing (NLP)
@@ -57,6 +55,9 @@ redirect_from:
 *   **Bai Qingchun**, Wu Yuanbin, Zhou Jie, He Liang: Aligned variational autoencoder for matching danmaku and video storylines. *Neurocomputing*, 454: 228-237 (2021). (SCI 期刊)
 *   **Bai Qingchun**, Wei Kai, Zhou Jie, Xiong Chao, Wu Yuanbin, Lin Xin, He Liang: Entity-level sentiment prediction in Danmaku video interaction. *Journal of Supercomputing*, 77(9): 9474-9493 (2021). (SCI 期刊)
 *   **Bai Qingchun**, Wei Kai, Chen Mengwei, Hu Qinmin, He Liang: Mining Temporal Discriminant Frames via Joint Matrix Factorization: A Case Study of Illegal Immigration in the U.S. News Media. *International Conference on Knowledge Science, Engineering and Management (KSEM)*, 2018: 260-267. (CCF C 会议)
+*   **Bai Qingchun**, Qinmin Vivian Hu, Linhui Ge, Liang He:Stories That Big Danmaku Data Can Tell as a New Media[J]. IEEE Access,2019: 53509-53519.
+*   **Bai Qingchun**, Jiayi Chen, Qinmin Hu, Liang He: ECNU at CLEF PIR 2018 : Evaluation of Personalized Information Retrieval[C]. Conference and Labs of the Evaluation Forum, 2018.
+*    **Bai Qingchun**, Qinmin Hu, Faming Fang, Liang He:Topic Detection with Danmaku: A Time-Sync Joint NMF Approach[C]. Database and Expert System Applications, 2018: 428-435
 *   Huai Tianyu, Zhou Jie, Wu Xingjiao, Chen Qin, **Bai Qingchun**, Zhou Zezhou, He Liang: CL-MoE: Enhancing Multimodal Large Language Model with Dual Momentum Mixture-of-Experts for Continual Visual Question Answering. *CVPR 2025* (计算视觉顶级会议 CCF-A).
 *   Liu Shunyu, Zhou Jie, Zhu Qunxi, Chen Qin, **Bai Qingchun**, Xiao Jun, He Liang: Let's Rectify Step by Step: Improving Aspect-based Sentiment Analysis with Diffusion Models. *LREC/COLING 2024*: 10324-10335. (自然语言处理顶级会议 CCF-B).
 *   Meng Xianghui, Song Yang, **Bai Qingchun**, Wang Taoyi: CBKI: A confidence-based knowledge integration framework for multi-choice machine reading comprehension. *Knowledge-Based Systems*, 277: 109790 (2023). (SCI Q1, IF=8.8)
