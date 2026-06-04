@@ -13,14 +13,14 @@ title                    : "白庆春 | Bai Qingchun - 学术主页"
 title_separator          : "|"
 name                     : "白庆春 / Qingchun Bai"
 description              :  "上海开放大学工程技术中心副研究员 | Associate Researcher at Shanghai Open University"
-url                      : https://github.com/adableau
+url                      : https://adableau.github.io
 baseurl                  : "" 
-repository               : "https://adableau.github.io/"
+repository               : "adableau/adableau.github.io"
 
 # Author Profile (Left Sidebar)
 author:
   # Core Information
-  avatar: "profile.jpg"  
+  avatar: "profile.png"
   name: "白庆春 / Qingchun Bai"
   pronouns: "她/Her"
   bio: "自然语言处理研究者 | NLP Researcher<br>教育大数据分析 | Educational Data Mining"
@@ -31,7 +31,7 @@ author:
 
   # Academic Profiles
   googlescholar: "https://scholar.google.com/citations?hl=zh-CN&user=w2L_7H4AAAAJ"
-  orcid: "0000-0001-9307-3548"  
+  orcid: "https://orcid.org/0000-0001-9307-3548"
   semantic: "https://www.semanticscholar.org/author/Qingchun-Bai/51160762"
   
   # Code Repositories
