@@ -35,15 +35,16 @@
 #### CCF-A / CCF-B / 重要国际会议论文
 
 1.  Ziwei Wang, Jie Zhou&#42;, Qin Chen, Bo Jiang, **Qingchun Bai**&#42;, Liang Dou, and Liang He. LLM-KT: Enhancing Large Language Models with Knowledge Tracing via Multi-Level Plug-and-Play Alignment. *ACL 2026*. (CCF-A)
-2.  Tianyu Huai, Jie Zhou, Xingjiao Wu, Qin Chen, **Qingchun Bai**, Zezhou Zhou, and Liang He. CL-MoE: Enhancing Multimodal Large Language Model with Dual Momentum Mixture-of-Experts for Continual Visual Question Answering. *CVPR 2025*: 19608-19617. (CCF-A)
-3.  Qi Zhang, Jie Zhou, Qin Chen, **Qingchun Bai**, and Liang He. Enhancing Event-Level Sentiment Analysis with Structured Argument. *SIGIR 2022: The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval*. (CCF-A)
-4.  Shunyu Liu, Jie Zhou, Qunxi Zhu, Qin Chen, **Qingchun Bai**, Jun Xiao, and Liang He. Let's Rectify Step by Step: Improving Aspect-based Sentiment Analysis with Diffusion Models. *LREC-COLING 2024*: 10324-10335. (CCF-B)
-5.  Y. Dan, J. Zhou, Q. Chen, **Q. Bai**, and L. He. Enhancing Class Understanding via Prompt-Tuning for Zero-Shot Text Classification. *ICASSP 2022: IEEE International Conference on Acoustics, Speech and Signal Processing*. (CCF-B)
-6.  Qi Zhang, Jie Zhou, Qin Chen, **Qingchun Bai**, Jun Xiao, and Liang He. ECNU_ICA at SemEval-2022 Task 10: A Simple and Unified Model for Monolingual and Crosslingual Structured Sentiment Analysis. *SemEval 2022: The 16th International Workshop on Semantic Evaluation*.
-7.  Qi Zhang, Jie Zhou, Qin Chen, **Qingchun Bai**, Jun Xiao, and Liang He. A Knowledge-Enhanced Adversarial Model for Cross-lingual Structured Sentiment Analysis. *IJCNN 2022: International Joint Conference on Neural Networks*. (CCF-C)
-8.  **Qingchun Bai**, Kai Wei, Mengwei Chen, Qinmin Hu, and Liang He. Mining Temporal Discriminant Frames via Joint Matrix Factorization: A Case Study of Illegal Immigration in the U.S. News Media. *KSEM 2018: International Conference on Knowledge Science, Engineering and Management*, 260-267. (CCF-C)
-9.  **Qingchun Bai**, Jiayi Chen, Qinmin Hu, and Liang He. ECNU at CLEF PIR 2018: Evaluation of Personalized Information Retrieval. *Conference and Labs of the Evaluation Forum*, 2018.
-10. **Qingchun Bai**, Qinmin Hu, Faming Fang, and Liang He. Topic Detection with Danmaku: A Time-Sync Joint NMF Approach. *DEXA 2018: Database and Expert Systems Applications*, 428-435. (CCF-C)
+2.  Y. Dai, **Q. Bai**, J. Zhao, J. Zhou, L. Dou, Q. Chen, and L. He. MuEmo-R1: Fine-Grained Multimodal Emotion Reasoning via Acoustic-Facial Grounding. *International Conference on Artificial Neural Networks (ICANN)*, 2026.
+3.  Tianyu Huai, Jie Zhou, Xingjiao Wu, Qin Chen, **Qingchun Bai**, Zezhou Zhou, and Liang He. CL-MoE: Enhancing Multimodal Large Language Model with Dual Momentum Mixture-of-Experts for Continual Visual Question Answering. *CVPR 2025*: 19608-19617. (CCF-A)
+4.  Qi Zhang, Jie Zhou, Qin Chen, **Qingchun Bai**, and Liang He. Enhancing Event-Level Sentiment Analysis with Structured Argument. *SIGIR 2022: The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval*. (CCF-A)
+5.  Shunyu Liu, Jie Zhou, Qunxi Zhu, Qin Chen, **Qingchun Bai**, Jun Xiao, and Liang He. Let's Rectify Step by Step: Improving Aspect-based Sentiment Analysis with Diffusion Models. *LREC-COLING 2024*: 10324-10335. (CCF-B)
+6.  Y. Dan, J. Zhou, Q. Chen, **Q. Bai**, and L. He. Enhancing Class Understanding via Prompt-Tuning for Zero-Shot Text Classification. *ICASSP 2022: IEEE International Conference on Acoustics, Speech and Signal Processing*. (CCF-B)
+7.  Qi Zhang, Jie Zhou, Qin Chen, **Qingchun Bai**, Jun Xiao, and Liang He. ECNU_ICA at SemEval-2022 Task 10: A Simple and Unified Model for Monolingual and Crosslingual Structured Sentiment Analysis. *SemEval 2022: The 16th International Workshop on Semantic Evaluation*.
+8.  Qi Zhang, Jie Zhou, Qin Chen, **Qingchun Bai**, Jun Xiao, and Liang He. A Knowledge-Enhanced Adversarial Model for Cross-lingual Structured Sentiment Analysis. *IJCNN 2022: International Joint Conference on Neural Networks*. (CCF-C)
+9.  **Qingchun Bai**, Kai Wei, Mengwei Chen, Qinmin Hu, and Liang He. Mining Temporal Discriminant Frames via Joint Matrix Factorization: A Case Study of Illegal Immigration in the U.S. News Media. *KSEM 2018: International Conference on Knowledge Science, Engineering and Management*, 260-267. (CCF-C)
+10. **Qingchun Bai**, Jiayi Chen, Qinmin Hu, and Liang He. ECNU at CLEF PIR 2018: Evaluation of Personalized Information Retrieval. *Conference and Labs of the Evaluation Forum*, 2018.
+11. **Qingchun Bai**, Qinmin Hu, Faming Fang, and Liang He. Topic Detection with Danmaku: A Time-Sync Joint NMF Approach. *DEXA 2018: Database and Expert Systems Applications*, 428-435. (CCF-C)
 
 #### 教育人工智能、在线学习与终身学习方向会议论文
 
