@@ -39,8 +39,8 @@ redirect_from:
 
 ### 主要成果与项目 / Academic Achievements & Projects
 
-在国内外重要期刊会议上发表学术论文 30 余篇。
-*Published over 30 papers in prominent domestic and international journals and conferences.*
+在国内外重要期刊会议上发表学术论文 40 余篇。
+*Published over 40 papers in prominent domestic and international journals and conferences.*
 
 主持国家自然科学基金、上海市自然基金等多项课题。
 *Principal Investigator (PI) for multiple projects funded by the National Natural Science Foundation of China (NSFC), Shanghai Natural Science Foundation, etc.*
@@ -53,4 +53,3 @@ redirect_from:
 
 ### 联系方式 / Contact
 *   邮箱 / Email: [qc_bai@foxmail.com]
-
